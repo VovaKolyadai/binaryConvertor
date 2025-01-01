@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\HillelPro\\hw\\binaryConvertor\\BinaryConvertor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3321426B-5941-4D6D-A573-23B7BC6359F9}|BinaryConvertor\\BinaryConvertor.csproj|c:\\users\\admin\\onedrive\\desktop\\hillelpro\\hw\\binaryconvertor\\binaryconvertor\\binaryconvertor\\binaryconvertor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3321426B-5941-4D6D-A573-23B7BC6359F9}|BinaryConvertor\\BinaryConvertor.csproj|solutionrelative:binaryconvertor\\binaryconvertor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3321426B-5941-4D6D-A573-23B7BC6359F9}|BinaryConvertor\\BinaryConvertor.csproj|c:\\users\\admin\\onedrive\\desktop\\hillelpro\\hw\\binaryconvertor\\binaryconvertor\\binaryconvertor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3321426B-5941-4D6D-A573-23B7BC6359F9}|BinaryConvertor\\BinaryConvertor.csproj|solutionrelative:binaryconvertor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3321426B-5941-4D6D-A573-23B7BC6359F9}|BinaryConvertor\\BinaryConvertor.csproj|c:\\users\\admin\\onedrive\\desktop\\hillelpro\\hw\\binaryconvertor\\binaryconvertor\\binaryconvertor\\binaryconvertor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3321426B-5941-4D6D-A573-23B7BC6359F9}|BinaryConvertor\\BinaryConvertor.csproj|solutionrelative:binaryconvertor\\binaryconvertor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +30,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "BinaryConvertor.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\HillelPro\\hw\\binaryConvertor\\BinaryConvertor\\BinaryConvertor\\BinaryConvertor.cs",
               "RelativeDocumentMoniker": "BinaryConvertor\\BinaryConvertor.cs",
@@ -43,13 +43,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\HillelPro\\hw\\binaryConvertor\\BinaryConvertor\\BinaryConvertor\\Program.cs",
               "RelativeDocumentMoniker": "BinaryConvertor\\Program.cs",
               "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\HillelPro\\hw\\binaryConvertor\\BinaryConvertor\\BinaryConvertor\\Program.cs",
               "RelativeToolTip": "BinaryConvertor\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA9AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-30T14:35:20.53Z",
               "EditorCaption": ""
